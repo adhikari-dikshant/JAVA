@@ -31,4 +31,7 @@ bin/
 ### Windows ###
 .DS_Store
 .class
-Day 1/HelloWorld.class
+Day_1/HelloWorld.class
+Day_2/Scanner Class Practice/scannerExample.class
+Day_2/Scanner Class Practice/SimpleInterestCalculator.class
+Day_2/Scanner Class Practice/Sum.class
